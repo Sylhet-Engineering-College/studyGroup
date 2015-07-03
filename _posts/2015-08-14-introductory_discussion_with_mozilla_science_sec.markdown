@@ -1,5 +1,5 @@
 ---
-title: Introductory Discussion with Mozilla Science,SEC
+title: Introductory Discussion with Mozilla Science
 text: We will discuss about relation between Web and Science
 location: CSE Building,Sylhet Engineering College
 link: https://github.com/Sylhet-Engineering-College/studyGroup/issues/1
