@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description:
 title: SEC Study Group
-description: "Our study group."
+description: "Sylhet Engineering College Study Group that deals with coding and science togehter"
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
@@ -18,7 +18,7 @@ description: "Our study group."
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Welcome To SEC Study Group!"
-headlineMain: "Let's Work Together !!"
+headlineMain: "Let's Work Together, and Create Something Out of Nothing!!"
 
 
 #========================================
