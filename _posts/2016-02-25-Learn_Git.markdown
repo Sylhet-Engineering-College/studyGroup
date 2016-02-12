@@ -1,0 +1,9 @@
+---
+title: Learn Git
+text: A workshop on GIt
+location: ACM Lab,Sylhet Engineering College
+link: https://github.com/Sylhet-Engineering-College/studyGroup/issues/9
+date: 2016-02-25
+startTime: '15:00'
+endTime: '17:00'
+---
